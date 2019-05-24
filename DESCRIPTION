@@ -1,0 +1,10 @@
+Package: mypackage
+Title: This package has my addition and subtraction functions
+Version: 0.0.0.9000
+Authors@R: person("Evan", "Johnson", email = "wej@bu.edu", role = c("aut", "cre"))
+Description: This package is the essential toolkit for addition and subtraction
+Depends: R (>= 3.6.0)
+License: Artistic 2.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
